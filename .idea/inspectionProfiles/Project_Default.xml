@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="polls.views.DetailView" />
+          <option value="config.settings.os" />
         </list>
       </option>
     </inspection_tool>
